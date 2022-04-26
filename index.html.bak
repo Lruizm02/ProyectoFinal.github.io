@@ -313,7 +313,7 @@
         </div>
         <!--about end-->
         <!--portfolio  modificado por rama WDO -->
-       <div id="portfolio">
+        <div id="portfolio">
             <div class="color-changer">
                 <div class="color-panel">
                     <img src="images/gear.png" alt="">
@@ -344,107 +344,55 @@
                     </div>
                 </div>
                 </div>
-            <div class="portfolio-header"> <span class="color"> BIENVENIDO A   </span> YO SE QUE LA SABES
-            <span class ="header-caption"> Estas son lagunas de las preguntas de tu infancia  <span class="color"> Comencemos con Dragon Ball Z </span></span></div>
+            <div class="portfolio-header"> <span class="color"> My </span> Portfolio
+            <span class ="header-caption"> Some Of My <span class="color"> Works</span></span></div>
              <div id="portfolio-content">
                  <div class="portfolio portfolio-first">
                      <div class="portfolio-image">
-                        <img src = "https://i.pinimg.com/736x/ef/bd/cc/efbdcc2905a296b424ffe73eea852409.jpg" alt="portfolio-first">
-                     </div>
-                    
-					<div class="portfolio-text">
-                         <h2>DRAGON BALL Z</h2>
-						    
-			<p>¿Cómo se llama el hijo de Kakarotto? :	</p>
-		<br>	
-		<a href="https://media.makeameme.org/created/muy-bien-360fd029fb.jpg" <p>Gohan</p>  </a>
-		<a href="https://www.nosolohacking.info/wp-content/uploads/2017/11/error2.jpg" <p>Picoro</p>  </a>
-		<a href="https://www.nosolohacking.info/wp-content/uploads/2017/11/error2.jpg" <p>Cell</p>  </a>
-		<a href="https://www.nosolohacking.info/wp-content/uploads/2017/11/error2.jpg" <p>Frezer</p>  </a>
-
- </div class>	
-	</div>
-	</div>
-	
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<div id="portfolio-content">
-	    <div class="portfolio portfolio-first">
-                     <div class="portfolio-image">
-                        <img src = "https://i.pinimg.com/originals/76/46/40/76464089d6cb898077c3b905b336dd12.jpg" alt="portfolio-first">
+                        <img src="images/portfolio-first.jpg" alt="portfolio-first">
                      </div>
                      <div class="portfolio-text">
-                         <h2> IRONMAN </h2>
-						
-				<div>		    
-			<p>¿Quien interpreta el personaje de iron man? :	</p>
-		<a href="https://www.nosolohacking.info/wp-content/uploads/2017/11/error2.jpg" <p>Tony Stark</p>  </a>
-		<a href="https://media.makeameme.org/created/muy-bien-360fd029fb.jpg" <p>robert downey jr</p>  </a>		
-		<a href="https://www.nosolohacking.info/wp-content/uploads/2017/11/error2.jpg" <p>Tom Cruise</p>  </a>
-		<a href="https://www.nosolohacking.info/wp-content/uploads/2017/11/error2.jpg" <p>Robert De Niro</p>  </a>
-		</div>
-	</div>
-	</div>
-			   
-			   
-			   
-			   
-			   
-			   
-			   
-			   
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-                 <div class="portfolio portfolio-first">
-                     <div class="portfolio-image">
-                        <img src = "https://hbomax-images.warnermediacdn.com/images/GYGVHLA01LJyaogEAAAAd/tileburnedin?size=1280x720&partner=hbomaxcom&v=ffe8d8a298e15ce8e6f7be2947748e34&language=es-419&host=art-gallery.api.hbo.com&w=Infinity" alt="portfolio-first">
+                         <h2>App Idea</h2>
+                         <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ad ut optio repellat cupiditate 
+                             expedita eius dignissimos. Id cumque placeat minima ad laudantium suscipit voluptatem ducimus</p>
+                         <div class="button"><a href="#"><button><span class="index"> View Project<i class="gg-arrow-right"></i></span></button></a></div>
                      </div>
-                    
-					<div class="portfolio-text">
-                         <h2>MARVEL</h2>
-						    
-			<p>¿que personaje interpreta Tobey Maguire? :	</p>
-		<a href="https://www.nosolohacking.info/wp-content/uploads/2017/11/error2.jpg" <p>El hombre Rata</p>  </a>
-		<a href="https://media.makeameme.org/created/muy-bien-360fd029fb.jpg" <p>El hombre araña</p>  </a>		
-		<a href="https://www.nosolohacking.info/wp-content/uploads/2017/11/error2.jpg" <p>El hombre atomico</p>  </a>
-		<a href="https://www.nosolohacking.info/wp-content/uploads/2017/11/error2.jpg" <p>El hombre caiman</p>  </a>
-	</div>
-	</div>
-	</div>
-	
-	
-
-	
-	    <div class="portfolio portfolio-first">
-                     <div class="portfolio-image">
-                        <img src = "https://laestatuilla.com/wp-content/uploads/2020/11/bob-esponja-al-rescate.jpeg" alt="portfolio-first">
-                     </div>
-                     <div class="portfolio-text">
-                         <h2> ESTAMOS LISTOS </h2>
-						
-				<div>		    
-			<p> si capitan estamos listos vive en una piña debajo del Mar  :	</p>
-		<a href="https://www.nosolohacking.info/wp-content/uploads/2017/11/error2.jpg" <p>Planton</p>  </a>			
-		<a href="https://www.nosolohacking.info/wp-content/uploads/2017/11/error2.jpg" <p>Bob toronja</p>  </a>
-		<a href="https://www.nosolohacking.info/wp-content/uploads/2017/11/error2.jpg" <p>patricio</p>  </a>
-		<a href="https://media.makeameme.org/created/muy-bien-360fd029fb.jpg" <p>Bob esponja</p>  </a>	
-		
-		</div>
-	</div>
-	</div>
+                 </div>
+                 <div class="portfolio portfolio-second">
+                    <div class="portfolio-image">
+                        <img src="images/portfolio-second.jpg" alt="portfolio-second">
+                    </div>
+                    <div class="portfolio-text">
+                        <h2>Web Designing</h2>
+                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Id cumque placeat minima ad laudantium suscipit
+                             voluptatem ducimus. Id cumque placeat minima ad laudantium suscipit voluptatem ducimus</p>
+                        <div class="button"><a href="#"><button><span class="index"> View Project<i class="gg-arrow-right"></i></span></button></a></div>
+                    </div>
+                </div>
+             
+                <div class="portfolio portfolio-third">
+                    <div class="portfolio-image">
+                        <img src="images/portfolio-third.jpg" alt="portfolio-third">
+                    </div>
+                    <div class="portfolio-text">
+                        <h2>UI Designing</h2>
+                        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ad ut optio repellat cupiditate expedita eius dignissimos
+                            .. Id cumque placeat minima ad laudantium suscipit voluptatem ducimus</p>
+                        <div class="button"><a href="#"><button><span class="index"> View Project<i class="gg-arrow-right"></i></span></button></a></div>
+                    </div>
+                </div>
+                <div class="portfolio portfolio-fourth">
+                    <div class=" portfolio-image">
+                        <img src="images/portfolio-fourth.jpg" alt="portfolio-fourth">
+                    </div>
+                    <div class="portfolio-text">
+                        <h2>Wow Graphics</h2>
+                        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ad ut optio repellat cupiditate
+                             expedita eius dignissimos. Id cumque placeat minima ad laudantium suscipit voluptatem ducimus</p>
+                        <div class="button"><a href="#"><button><span class="index"> View Project<i class="gg-arrow-right"></i></span></button></a></div>
+                    </div>
+                </div>
+                 </div>
                     <!--copyright-section You Can Remove After Downloading-->
             <div class="footer">
                 <div class="footer-text">
