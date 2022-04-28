@@ -9,7 +9,7 @@
 	<meta name="author" content="willy wonka" />
     <title>:::: Trabajo Final Sistemas Operativos</title>
   <!--favicon-img--> 
-   <link rel="icon" type="image/png" href="images/favicon.png">
+   <link rel="icon" type="image/png" href="images/favicon-2.png">
    <!--favicon-img-->
    <!--main css file should not be removed -->
     <link rel="stylesheet" href="css/index.css">
@@ -37,7 +37,7 @@
         <!--Navigator-fullscreen-->
         <div id="navigation-content">
             <div class="logo">
-                <img src="images/willy wonka logo.png" alt="logo">
+				<img src="images/willy wonka logo-2.png" alt="logo">
             </div>
             <div class="navigation-close">
                 <span class="close-first"></span>
@@ -45,17 +45,17 @@
             </div>
             <div class="navigation-links">
                 <a href="#" data-text="HOME" id="home-link" >HOME</a>
-                <a href="#" data-text="ABOUT" id="about-link" >ABOUT</a>
-                <a href="#" data-text="BLOG" id="blog-link" >BLOG</a>
-                <a href="#" data-text="PORTFOLIO" id="portfolio-link" >PORTFOLIO</a>
-                <a href="#" data-text="CONTACT" id="contact-link" >CONTACT</a>
+                <a href="#" data-text="ACERCA" id="about-link" >ACERCA DE NOSOTROS</a>
+                <a href="#" data-text="TEMAS" id="blog-link" >TEMAS DE INTERES</a>
+                <a href="#" data-text="YO SE" id="portfolio-link" >YO SE QUE LA SABES</a>
+                <a href="#" data-text="CONTACTANOS" id="contact-link" >CONTACTANOS</a>
             </div>
         </div>
         <!--Navigator-Fullscreen END-->
           <!--Home Page-->
         <!--Menubar-->
         <div id="navigation-bar">
-            <img src="images/willy wonka logo.png" alt="logo">
+            <img src="images/willy wonka logo-2.png" alt="logo">
             <div class="menubar">
                 <span class="first-span"></span>
                 <span class="second-span"></span>
@@ -80,7 +80,7 @@
                 <div class="firstline"><span class="color">Trabajo </span>FINAL</div>
                 <div class="secondline">
                 I'm
-				<span class="txt-rotate color" data-period="1200"data-rotate='[ " Oscar Gil.", " Daniel Castro.", " Wilson Duran.", " Leonardo Ruiz." ]'></span>
+				<span class="txt-rotate color" data-period="800"data-rotate='[ " Oscar Gil.", " Daniel Castro.", " Wilson Duran.", " Leonardo Ruiz." ]'></span>
 				<span class="slash">|</span>
 				</div>
 				<div class="secondline">
@@ -143,21 +143,21 @@
             <!--about content-->
             <div id="about-content">
                 <div class="about-header">
-                    About <span class="color">Me</span>
-                    <span class ="header-caption">Get to Know <span class="color"> me.</span></span>
+                    About <span class="color">Us</span>
+                    <span class ="header-caption">The best of the best <span class="color"><b> sir!.</b></span></span>
                 </div>
                 <div class="about-main">
             <div class="about-first-paragraph wow">
             <!--about description-->
                <span class="about-first-line">
-                    I'm creative 
+                    Somos estudiantes 
                     <span class="color">web developer</span>
-                     based in New York , USA </span>
+                     con base en Bogotá - Colombia </span>
                      <br>
-               <span class="about-second-line"> With 20 years of experience as a professional Web developer, I have acquired the skills and knowledge necessary to make your project a success. I enjoy every step while working.</span>
-               <div class="cv">
-                <a href="#"><button>Download <span class="colors">CV</span></button></a>
-            </div>
+				<span class="about-second-line"> Estudiantes de quinto semestre de Ingenieria de Sistemas, en la Universitaria de Colombia. desarrolladores Web en formación, adquirido las habilidades y conocimientos necesarios para que tu proyecto sea un éxito. Disfrutando cada paso que damos mientras aprendemos.</span>
+				<div class="cv">
+                <a href="https://universitariadecolombia.edu.co/" target="_blank"><button>Universitaria <span class="colors">de Colombia</span></button></a>
+				</div>
             </div>
             <!--about picture-->
             <div class="about-img">
@@ -200,7 +200,7 @@
                     </div>
             <!--services header-->
                     <div class="services-heading wow">
-                        <span class="color">My</span> Services
+                        <span class="color">Nuestros</span> Servicios
                     </div>
             <!--services header end-->
             <!--services content-->
@@ -211,7 +211,7 @@
                                </div>
                                <div class="service-description">
                                 <h2>Web Designing</h2>
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod quibusdam possimus</p>
+                                <p>Creamos tu página web basado en tu presupuesto y a la personalidad de tu negocio.</p>
                                </div>
                            </div>
                            <div class="service-two service wow">
@@ -220,7 +220,7 @@
                                </div>
                                <div class="service-description">
                                 <h2>Social Media</h2>
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod quibusdam possimus</p>
+                                <p>Manejamos las redes sociales par realizar marcketing a tu negocio.</p>
                                </div>
                            </div>
                            <div class="service-three service wow">
@@ -229,7 +229,7 @@
                             </div>
                             <div class="service-description">
                                 <h2>Creative Design</h2>
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod quibusdam possimus</p>
+                                <p>Creatividad en tu paginas para atraer más clientes.</p>
                             </div>
                         </div>
                     </div>
@@ -238,7 +238,7 @@
             <!--services end-->
             <div id="skills">
                 <div class="skills-header">
-                     My <span class="color"> Skills</span>
+                     Nuestro<span class="color"> Conocimientos</span>
                 </div>
                 <div class="skills-content " style="text-align: center;">
                     <div class="skill-html skill">
@@ -268,7 +268,7 @@
                     </div>
                         </div>
                     <div class="html-prog wow prog">
-                 <div class="adobe-progress wow">83%</div>
+                 <div class="adobe-progress wow">53%</div>
                     </div>
                     </div>
                     <div class="skill-html skill">
@@ -306,14 +306,14 @@
     <!--copyright-section You Can Remove After Downloading-->
             <div class="footer">
              <div class="footer-text">
-                 <img src="./images/copyright.png" alt="copyright-img" class="images" height="14px"> Willy Wonkas
+                 <img src="./images/copyright.png" alt="copyright-img" class="images" height="14px"> THE WOLD
              </div>
             </div>
     <!--copyright-section-->
         </div>
         <!--about end-->
         <!--portfolio  modificado por rama WDO -->
-        <div id="portfolio">
+       <div id="portfolio">
             <div class="color-changer">
                 <div class="color-panel">
                     <img src="images/gear.png" alt="">
@@ -344,62 +344,84 @@
                     </div>
                 </div>
                 </div>
-            <div class="portfolio-header"> <span class="color"> My </span> Portfolio
-            <span class ="header-caption"> Some Of My <span class="color"> Works</span></span></div>
+            <div class="portfolio-header"> <span class="color"> BIENVENIDO A   </span> YO SE QUE LA SABES
+            <span class ="header-caption"> Estas son lagunas de las preguntas de tu infancia  <span class="color"> Comencemos con Dragon Ball Z </span></span></div>
              <div id="portfolio-content">
-                 <div class="portfolio portfolio-first">
+                <div class="portfolio portfolio-first">
                      <div class="portfolio-image">
-                        <img src="images/portfolio-first.jpg" alt="portfolio-first">
+                        <img src = "https://i.pinimg.com/736x/ef/bd/cc/efbdcc2905a296b424ffe73eea852409.jpg" alt="portfolio-first">
+                     </div>
+                    
+					<div class="portfolio-text">
+                        <h2>DRAGON BALL Z</h2>
+						<p>¿Cómo se llama el hijo de Kakarotto? :	</p>
+						<br>	
+						<a href="https://media.makeameme.org/created/muy-bien-360fd029fb.jpg" <p>Gohan</p>  </a>
+						<a href="https://www.nosolohacking.info/wp-content/uploads/2017/11/error2.jpg" <p>Picoro</p>  </a>
+						<a href="https://www.nosolohacking.info/wp-content/uploads/2017/11/error2.jpg" <p>Cell</p>  </a>
+						<a href="https://www.nosolohacking.info/wp-content/uploads/2017/11/error2.jpg" <p>Frezer</p>  </a>
+					</div class>	
+					</div>		
+				</div>
+
+				<div id="portfolio-content">
+					<div class="portfolio portfolio-first">
+						<div class="portfolio-image">
+                        <img src = "https://i.pinimg.com/originals/76/46/40/76464089d6cb898077c3b905b336dd12.jpg" alt="portfolio-first">
+						</div>
+					<div class="portfolio-text">
+                    <h2> IRONMAN </h2>
+						
+					<div>		    
+					<p>¿Quien interpreta el personaje de iron man? :	</p>
+					<a href="https://www.nosolohacking.info/wp-content/uploads/2017/11/error2.jpg" <p>Tony Stark</p>  </a>
+					<a href="https://media.makeameme.org/created/muy-bien-360fd029fb.jpg" <p>robert downey jr</p>  </a>		
+					<a href="https://www.nosolohacking.info/wp-content/uploads/2017/11/error2.jpg" <p>Tom Cruise</p>  </a>
+					<a href="https://www.nosolohacking.info/wp-content/uploads/2017/11/error2.jpg" <p>Robert De Niro</p>  </a>
+					</div>
+					</div>
+					</div>
+	
+ <div class="portfolio portfolio-first">
+                     <div class="portfolio-image">
+                        <img src = "https://hbomax-images.warnermediacdn.com/images/GYGVHLA01LJyaogEAAAAd/tileburnedin?size=1280x720&partner=hbomaxcom&v=ffe8d8a298e15ce8e6f7be2947748e34&language=es-419&host=art-gallery.api.hbo.com&w=Infinity" alt="portfolio-first">
+                     </div>
+                    
+					<div class="portfolio-text">
+                         <h2>MARVEL</h2>
+						    
+			<p>¿que personaje interpreta Tobey Maguire? :	</p>
+		<a href="https://www.nosolohacking.info/wp-content/uploads/2017/11/error2.jpg" <p>El hombre Rata</p>  </a>
+		<a href="https://media.makeameme.org/created/muy-bien-360fd029fb.jpg" <p>El hombre araña</p>  </a>		
+		<a href="https://www.nosolohacking.info/wp-content/uploads/2017/11/error2.jpg" <p>El hombre atomico</p>  </a>
+		<a href="https://www.nosolohacking.info/wp-content/uploads/2017/11/error2.jpg" <p>El hombre caiman</p>  </a>
+	</div>
+	</div>
+		</div>
+	    <div class="portfolio portfolio-first">
+                     <div class="portfolio-image">
+                        <img src = "https://laestatuilla.com/wp-content/uploads/2020/11/bob-esponja-al-rescate.jpeg" alt="portfolio-first">
                      </div>
                      <div class="portfolio-text">
-                         <h2>App Idea</h2>
-                         <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ad ut optio repellat cupiditate 
-                             expedita eius dignissimos. Id cumque placeat minima ad laudantium suscipit voluptatem ducimus</p>
-                         <div class="button"><a href="#"><button><span class="index"> View Project<i class="gg-arrow-right"></i></span></button></a></div>
-                     </div>
-                 </div>
-                 <div class="portfolio portfolio-second">
-                    <div class="portfolio-image">
-                        <img src="images/portfolio-second.jpg" alt="portfolio-second">
-                    </div>
-                    <div class="portfolio-text">
-                        <h2>Web Designing</h2>
-                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Id cumque placeat minima ad laudantium suscipit
-                             voluptatem ducimus. Id cumque placeat minima ad laudantium suscipit voluptatem ducimus</p>
-                        <div class="button"><a href="#"><button><span class="index"> View Project<i class="gg-arrow-right"></i></span></button></a></div>
-                    </div>
-                </div>
-             
-                <div class="portfolio portfolio-third">
-                    <div class="portfolio-image">
-                        <img src="images/portfolio-third.jpg" alt="portfolio-third">
-                    </div>
-                    <div class="portfolio-text">
-                        <h2>UI Designing</h2>
-                        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ad ut optio repellat cupiditate expedita eius dignissimos
-                            .. Id cumque placeat minima ad laudantium suscipit voluptatem ducimus</p>
-                        <div class="button"><a href="#"><button><span class="index"> View Project<i class="gg-arrow-right"></i></span></button></a></div>
-                    </div>
-                </div>
-                <div class="portfolio portfolio-fourth">
-                    <div class=" portfolio-image">
-                        <img src="images/portfolio-fourth.jpg" alt="portfolio-fourth">
-                    </div>
-                    <div class="portfolio-text">
-                        <h2>Wow Graphics</h2>
-                        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ad ut optio repellat cupiditate
-                             expedita eius dignissimos. Id cumque placeat minima ad laudantium suscipit voluptatem ducimus</p>
-                        <div class="button"><a href="#"><button><span class="index"> View Project<i class="gg-arrow-right"></i></span></button></a></div>
-                    </div>
-                </div>
-                 </div>
-                    <!--copyright-section You Can Remove After Downloading-->
+                         <h2> ESTAMOS LISTOS </h2>
+						
+				<div>		    
+			<p> si capitan estamos listos vive en una piña debajo del Mar  :	</p>
+		<a href="https://www.nosolohacking.info/wp-content/uploads/2017/11/error2.jpg" <p>Planton</p>  </a>			
+		<a href="https://www.nosolohacking.info/wp-content/uploads/2017/11/error2.jpg" <p>Bob toronja</p>  </a>
+		<a href="https://www.nosolohacking.info/wp-content/uploads/2017/11/error2.jpg" <p>patricio</p>  </a>
+		<a href="https://media.makeameme.org/created/muy-bien-360fd029fb.jpg" <p>Bob esponja</p>  </a>	
+		
+		</div>
+	</div>
+	</div>
+    <!--copyright-section You Can Remove After Downloading-->
             <div class="footer">
-                <div class="footer-text">
-                    <img src="./images/copyright.png" alt="copyright-img" class="images" height="14px"> Willy Wonkas
-                </div>
-               </div>
-       <!--copyright-section-->
+             <div class="footer-text">
+                 <img src="./images/copyright.png" alt="copyright-img" class="images" height="14px"> THE WOLD
+             </div>
+            </div>
+    <!--copyright-section-->
              </div>
         <!--portfolio end-->
         <!--blog  modificado por rama OGC-->
@@ -434,91 +456,83 @@
                     </div>
                 </div>
                 </div>
-        <div class="blog-header"> Blogs</span>
+        <div class="blog-header"> Our Blogs</span>
             <span class ="header-caption"> My Latest <span class="color"> blog posts.</span></span></div>
             <div class="blog-content">
                  <div class="blogs">
                      <a href="#">
                      <div class="img">
-                        <img src="images/post-one-2.jpg" alt="blog-one">
-                        <div class="blog-date">8 May,20</div>
+                        <img src="http://topmanagement.com.mx/wp-content/uploads/2020/10/Up-Finanzas-Cuantitativas-ok-620x350.jpg" alt="blog-two">
+                        <div class="blog-date">26 April,22</div>
                      </div>
                      <div class="blog-text">
-                         <h3>Harleys In Hawaai</h3>
-                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus alias dolore recusandae illum, corrupti quo 
-                             veniam saepe aliquid! Quis voluptates ratione consequuntur vel, perferendis cum provident? Magnam fugiat voluptas
-                              libero.</p>
+                         <h3>Finanzas Personales</h3>
+                         <p>Las finanzas personales son la aplicación de los principios de las 
+                             finanzas en la gestión de los recursos de un individuo o familia.</p>
                      </div></a>
                  </div>      
                  <div class="blogs">
                     <a href="#">
                     <div class="img">
-                        <img src="images/post-two.jpg" alt="blog-two">
-                        <div class="blog-date">16 Jan,20</div>
+                        <img src="https://www.webconsultas.com/sites/default/files/styles/wc_adaptive_image__medium/public/media/2020/08/12/corazon-frecuencia-cardiaca.jpg" alt="blog-two">
+                        <div class="blog-date">24 April,22</div>
                     </div>
                     <div class="blog-text">
-                        <h3>Key To Be Productive</h3>
-                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Incidunt maiores, 
-                            recusandae cupiditate ducimus a non tempora, architecto obcaecati eaque ipsum assumenda harum dolorum iusto tenetur
-                             eius eligendi dolor magnam sit!</p>
+                        <h3>Deporte y Salud</h3>
+                        <p>La salud y el bienestar del individuo se fundamenta en tres pilares fundamentales: una alimentación equilibrada, la ausencia de hábitos perjudiciales (tabaquismo, alcoholismo, drogadicción…) y la práctica de ejercicio físico. En este artículo vamos a desarrollar un poco más este tercer punto, subrayando las fuertes relaciones existentes entre deporte y salud.</p>
                     </div></a>
                 </div>      
                 <div class="blogs">
                     <a href="#">
                     <div class="img">
-                        <img src="images/post-three.jpg" alt="blog-three">
-                        <div class="blog-date">30 Nov,19</div>
+                        <img src="https://wp-growpro.s3-eu-west-1.amazonaws.com/media/2020/09/deportes-extremos-en-canada-00.jpg" alt="blog-three">
+                        <div class="blog-date">25 April,22</div>
                     </div>
                     <div class="blog-text">
-                        <h3>Caffeine Addict</h3>
-                        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nemo nostrum impedit 
-                            ipsam perspiciatis ratione sapiente quasi optio reprehenderit, labore consequuntur suscipit cum quas.
-                             Officiis dolorem asperiores, ut necessitatibus quas doloremque?</p>
+                        <h3>Deportes Extremos</h3>
+                        <p>Deportes extremos es un término popular que se ha usado para calificar ciertas actividades o disciplinas, que tienen un alto nivel de riesgo inherente. El objetivo es llegar a superarse a uno mismo y para ello, es necesario el desarrollo de cualidades físicas, habilidades motoras, gran resistencia general y, sobre todo, una gran preparación psicológica y de vínculos sociales entre los participantes.
+
+                            Bajo este concepto se agrupan muchos deportes con distintos desafíos, donde predomina el autocontrol, la determinación, el manejo del miedo y la concentración, ya que se pone en riesgo la integridad física en su ejecución.2​ También implican cierta dosis de exigencia física y preparación para la aplicación de diferentes técnicas que ayudan controlar los riesgos.</p>
                     </div></a>
                 </div>
                 <div class="blogs">
                     <a href="#">
                     <div class="img">
-                        <img src="images/post-four.jpg" alt="blog-four">
-                        <div class="blog-date">6 Jul,19</div>
+                        <img src="https://ichef.bbci.co.uk/news/640/cpsprodpb/30DA/production/_102960521_gettyimages-872670540.jpg" alt="blog-four">
+                        <div class="blog-date">26 April,22</div>
                     </div>
                     <div class="blog-text">
-                        <h3>Web Development</h3>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, veniam ratione quam vitae,
-                             quibusdam explicabo rem debitis velit ipsa repellat, impedit nulla fuga? Amet corporis praesentium quae.
-                              Sed, quibusdam necessitatibus.</p>
+                        <h3>Tecnología y Futuro</h3>
+                        <p>La tecnología del futuro tiene mucho que ver con las aplicaciones y tendencias de la tecnología en la actualidad. Estas nos permiten vislumbrar lo que está por venir en un futuro cercano sobre el que ya se está trabajando. Lo último en tecnología hoy es la base sobre la que llegará un nuevo avance mañana.</p>
                     </div></a>
                 </div>  
                 <div class="blogs">
                     <a href="#">
                     <div class="img">
-                        <img src="images/post-five.jpg" alt="blog-five">
-                        <div class="blog-date">1 Jun,19</div>
+                        <img src="https://cdn.bizneo.com/blog/wp-content/uploads/2020/06/empleados-felices.jpg" alt="blog-five">
+                        <div class="blog-date">26 April,22</div>
                     </div>
                     <div class="blog-text">
-                        <h3>Work From Home</h3>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga sunt eum necessitatibus rem 
-                            dignissimos nulla mollitia cumque, provident officiis non vitae? Animi aut doloremque illum, soluta hic minus 
-                            sint explicabo..</p>
+                        <h3>Empleados Felices</h3>
+                        <p>Crear un ambiente de trabajo en el que los empleados se sientan alegres y optimistas puede generarle beneficios a cualquier empresa. Según un estudio reciente, los trabajadores felices son un 88% más productivos que aquellos con actitud negativa.</p>
                     </div></a>
                 </div>  
                 <div class="blogs">
                     <a href="#">
                     <div class="img">
-                        <img src="images/post-six.jpg" alt="blog-six">
-                        <div class="blog-date">28 Feb,19</div>
+                        <img src="https://bunkerdb.com/blog/wp-content/uploads/2020/08/Inteligencia-artificial.jpg" alt="blog-six">
+                        <div class="blog-date">28 May,22</div>
                     </div>
                     <div class="blog-text">
-                        <h3>Business Trip</h3>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo tempora dolorum fuga ratione, unde, 
-                            ex quaerat iste numquam nemo nihil nobis rem sint quia recusandae dignissimos quos ut rerum nam.</p>
+                        <h3>Inteligencia Artificial</h3>
+                        <p>Hace tiempo que la inteligencia artificial abandonó el espectro de la ciencia ficción para colarse en nuestras vidas y, aunque todavía en una fase muy inicial, está llamada a protagonizar una revolución equiparable a la que generó Internet. Sus aplicaciones en múltiples sectores —como salud, finanzas, transporte o educación, entre otros— han provocado que la Unión Europea desarrolle sus propias Leyes de la Robótica.</p>
                     </div></a>
                 </div>        
             </div>
                <!--copyright-section You Can Remove After Downloading-->
                <div class="footer">
                 <div class="footer-text">
-                    <img src="./images/copyright.png" alt="copyright-img" class="images" height="14px"> Willy Wonkas
+                    <img src="./images/copyright.png" alt="copyright-img" class="images" height="14px"> THE WOLD
                 </div>
                </div>
        <!--copyright-section-->
@@ -556,8 +570,8 @@
                 </div>
             </div>
             </div>
-         <div class="contact-header">Contact <span class="color"> Me</span>
-        <div class="contact-header-caption"> <span class="color"> Get</span> In Touch.</div></div>
+         <div class="contact-header">Contactenos<span class="color"> Aca</span>
+        <div class="contact-header-caption"> <span class="color"> estamos</span> para servirle.</div></div>
         <div class="contact-content">
             <!--Contact form-->
              <div class="contact-form">
@@ -618,7 +632,7 @@
                     <!--copyright-section You Can Remove After Downloading-->
                     <div class="footer">
                         <div class="footer-text">
-                            <img src="./images/copyright.png" alt="copyright-img" class="images" height="14px"> Willy Wonkas
+                            <img src="./images/copyright.png" alt="copyright-img" class="images" height="14px"> THE WOLD
                         </div>
                        </div>
                <!--copyright-section-->
